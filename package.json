@@ -29,7 +29,7 @@
     "grunt-env": "^0.4.4",
     "grunt-eslint": "^20.1.0",
     "grunt-istanbul": "^0.8.0",
-    "grunt-mocha": "^0.4.15",
+    "grunt-mocha": "https://github.com/rejas/grunt-mocha#growl-on-fail-option",
     "grunt-mocha-test": "^0.12.7",
     "grunt-saucelabs": "^9.0.0",
     "joi": "^6.10.0",
